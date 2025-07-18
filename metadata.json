@@ -1,0 +1,5 @@
+{
+  "name": "FIFA Skill Tracker",
+  "description": "An application to track your progress in learning new skills for the FIFA video game, inspired by a user-provided UI.",
+  "requestFramePermissions": []
+}
